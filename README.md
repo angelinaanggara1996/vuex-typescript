@@ -1,4 +1,4 @@
-# angts
+# vuex-typescript
 
 ## Project setup
 ```
